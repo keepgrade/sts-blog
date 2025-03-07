@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "sts-blog"
+  title: "huhhuhman의 블로그"
   navbar:
     right:
       - about.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedin.com
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        text: Github
+        href: https://github.com
+      - icon: blog
+        text: blog
+        href: https://velog.io/@stts1373/posts
 format:
   html:
     theme:
