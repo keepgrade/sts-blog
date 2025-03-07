@@ -1,5 +1,5 @@
 ---
-title: "sts-blog"
+title: "허허맨의 빅데이터 블로그"
 listing:
   contents: posts
   sort: "date desc"
